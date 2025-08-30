@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="20250830210807" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>लालित्य भाग १</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chapter_0">
+      <navLabel>
+        <text>आवरण पृष्ठ</text>
+      </navLabel>
+      <content src="text/coverpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_1">
+      <navLabel>
+        <text>शीर्षक पृष्ठ</text>
+      </navLabel>
+      <content src="text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_2">
+      <navLabel>
+        <text>प्रतिलिपि अधिकार पृष्ठ</text>
+      </navLabel>
+      <content src="text/copyrightpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_3">
+      <navLabel>
+        <text>विषयसूची</text>
+      </navLabel>
+      <content src="text/tocpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_4">
+      <navLabel>
+        <text>वक्तव्य</text>
+      </navLabel>
+      <content src="text/baktabya.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_5">
+      <navLabel>
+        <text>गणेश-स्तुति</text>
+      </navLabel>
+      <content src="text/ganesh-stuti.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_6">
+      <navLabel>
+        <text>सरस्वती-स्मृति</text>
+      </navLabel>
+      <content src="text/saraswati-stuti.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_7">
+      <navLabel>
+        <text>बाल राम</text>
+      </navLabel>
+      <content src="text/baal-ram.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_8">
+      <navLabel>
+        <text>शेषशायी विष्णु</text>
+      </navLabel>
+      <content src="text/sheshshayi-bishnu.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_9">
+      <navLabel>
+        <text>शिव-समाधि</text>
+      </navLabel>
+      <content src="text/shiva-samadhi.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_10">
+      <navLabel>
+        <text>सूर्य-महिमा</text>
+      </navLabel>
+      <content src="text/surya-mahima.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_11">
+      <navLabel>
+        <text>श्रीकृष्ण-भक्तिको रहस्य</text>
+      </navLabel>
+      <content src="text/shrikrishna-bhaktiko-rahasys.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_12">
+      <navLabel>
+        <text>शिव-पञ्चाशिका</text>
+      </navLabel>
+      <content src="text/shiva-panchashika.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_13">
+      <navLabel>
+        <text>श्री दुर्गा</text>
+      </navLabel>
+      <content src="text/shri-durga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_14">
+      <navLabel>
+        <text>महाकाली</text>
+      </navLabel>
+      <content src="text/mahakali.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_15">
+      <navLabel>
+        <text>शरशय्यामा लडेका भिष्मपितामहले गरेको श्रीकृष्ण-स्तुति</text>
+      </navLabel>
+      <content src="text/sharashayyama-ladeka-bhishmapitamahale-gareko-shrikrishna-stuti.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_16">
+      <navLabel>
+        <text>राधा-कृष्ण</text>
+      </navLabel>
+      <content src="text/radha-krishna.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_17">
+      <navLabel>
+        <text>काल-महिमा</text>
+      </navLabel>
+      <content src="text/kaal-mahima.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_18">
+      <navLabel>
+        <text>मुरलि-मोह</text>
+      </navLabel>
+      <content src="text/murali-moha.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_19">
+      <navLabel>
+        <text>दशैँ</text>
+      </navLabel>
+      <content src="text/dashai.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_20">
+      <navLabel>
+        <text>तिहार</text>
+      </navLabel>
+      <content src="text/tihar.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_21">
+      <navLabel>
+        <text>श्रीकृष्ण-लीलाको सानू किरण</text>
+      </navLabel>
+      <content src="text/shrikrishna-lilako-sanu-kiran.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_22">
+      <navLabel>
+        <text>जीवन-चङ्गा</text>
+      </navLabel>
+      <content src="text/jivan-changa.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_23">
+      <navLabel>
+        <text>कवि-कविताऽलाप</text>
+      </navLabel>
+      <content src="text/kavi-kavitalap.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_24">
+      <navLabel>
+        <text>को ? को ?</text>
+      </navLabel>
+      <content src="text/ko-ko.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_25">
+      <navLabel>
+        <text>म कस्तो हूँ</text>
+      </navLabel>
+      <content src="text/ma-kasto-hu.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_26">
+      <navLabel>
+        <text>सत्य-सन्देश (क)</text>
+      </navLabel>
+      <content src="text/satya-sandesh-1.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_27">
+      <navLabel>
+        <text>वसन्त कोकिल</text>
+      </navLabel>
+      <content src="text/basanta-kokil.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_28">
+      <navLabel>
+        <text>विवेक-वाटिकाको सानू फूल (क)</text>
+      </navLabel>
+      <content src="text/bibek-batikako-sanu-ful-1.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_29">
+      <navLabel>
+        <text>नैतिक-दृष्टान्त</text>
+      </navLabel>
+      <content src="text/naitik-drishtanta.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_30">
+      <navLabel>
+        <text>पिँजराको प्यासा मैना</text>
+      </navLabel>
+      <content src="text/pijarako-pyasa-maina.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_31">
+      <navLabel>
+        <text>हिउँदका दिन</text>
+      </navLabel>
+      <content src="text/hiudka-din.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_32">
+      <navLabel>
+        <text>नारद र विज्ञान</text>
+      </navLabel>
+      <content src="text/narad-ra-bigyan.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_33">
+      <navLabel>
+        <text>साहित्यको फुटबल</text>
+      </navLabel>
+      <content src="text/sahityako-football.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_34">
+      <navLabel>
+        <text>शिक्षक र भिक्षुक</text>
+      </navLabel>
+      <content src="text/sikshak-ra-bhikshuk.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_35">
+      <navLabel>
+        <text>धन-महिमा</text>
+      </navLabel>
+      <content src="text/dhan-mahima.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_36">
+      <navLabel>
+        <text>सत्य-सन्देश (ख)</text>
+      </navLabel>
+      <content src="text/satya-sandesh-2.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_37">
+      <navLabel>
+        <text>वसन्त</text>
+      </navLabel>
+      <content src="text/basanta.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_38">
+      <navLabel>
+        <text>सत्य-सन्देश (ग)</text>
+      </navLabel>
+      <content src="text/satya-sandesh-3.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_39">
+      <navLabel>
+        <text>अरुणोदय</text>
+      </navLabel>
+      <content src="text/arunodaya.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_40">
+      <navLabel>
+        <text>गङ्गाजीसित</text>
+      </navLabel>
+      <content src="text/gangajisita.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_41">
+      <navLabel>
+        <text>सान्त्वना</text>
+      </navLabel>
+      <content src="text/santwana.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_42">
+      <navLabel>
+        <text>विश्रामघाटको पवित्र स्मृति</text>
+      </navLabel>
+      <content src="text/bishramghatko-pabitra-smriti.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_43">
+      <navLabel>
+        <text>विज्ञानको मोह</text>
+      </navLabel>
+      <content src="text/bigyanko-moha.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_44">
+      <navLabel>
+        <text>सत्य-सन्देश (घ)</text>
+      </navLabel>
+      <content src="text/satya-sandesh-4.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_45">
+      <navLabel>
+        <text>गौँथलीको चिरिबिरी (क)</text>
+      </navLabel>
+      <content src="text/gauthaliko-chiribiri-1.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_46">
+      <navLabel>
+        <text>शरणाऽऽगति</text>
+      </navLabel>
+      <content src="text/sharanagati.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_47">
+      <navLabel>
+        <text>कन्याहरूको गौरीसित अभ्यर्थना</text>
+      </navLabel>
+      <content src="text/kanyaharuko-gaurisita-abhyarthana.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_48">
+      <navLabel>
+        <text>चुँडिएको चङ्गासित</text>
+      </navLabel>
+      <content src="text/chudiyeko-changasita.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_49">
+      <navLabel>
+        <text>परिश्रान्त चातक</text>
+      </navLabel>
+      <content src="text/parishranta-chatak.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_50">
+      <navLabel>
+        <text>संसारको स्वरूप</text>
+      </navLabel>
+      <content src="text/sansarko-swarup.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_51">
+      <navLabel>
+        <text>जीवन-ज्योति</text>
+      </navLabel>
+      <content src="text/jivan-jyoti.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_52">
+      <navLabel>
+        <text>अध्यात्म-वाटिकाको सानू सुगन्धी फूल</text>
+      </navLabel>
+      <content src="text/adhyatm-vakitako-sanu-sugandhi-ful.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_53">
+      <navLabel>
+        <text>प्रभात (क)</text>
+      </navLabel>
+      <content src="text/prabhat-1.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_54">
+      <navLabel>
+        <text>सत्य-सन्देश (ङ)</text>
+      </navLabel>
+      <content src="text/satya-sandesh-5.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_55">
+      <navLabel>
+        <text>पिँजराको सुगा</text>
+      </navLabel>
+      <content src="text/pijarako-suga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_56">
+      <navLabel>
+        <text>सत्य-सन्देश (च)</text>
+      </navLabel>
+      <content src="text/satya-sandesh-6.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_57">
+      <navLabel>
+        <text>चाखुराको प्रेमोल्लास</text>
+      </navLabel>
+      <content src="text/chakhurako-premollas.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_58">
+      <navLabel>
+        <text>अल्छीको सातसुरे उद्योग-विणा</text>
+      </navLabel>
+      <content src="text/alchiko-satsure-udhyog-bina.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_59">
+      <navLabel>
+        <text>मनोलड्डु</text>
+      </navLabel>
+      <content src="text/manoladdu.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_60">
+      <navLabel>
+        <text>आश्चर्य</text>
+      </navLabel>
+      <content src="text/ashcharya.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_61">
+      <navLabel>
+        <text>कुचो</text>
+      </navLabel>
+      <content src="text/kucho.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_62">
+      <navLabel>
+        <text>सन्ध्या</text>
+      </navLabel>
+      <content src="text/sandhya.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_63">
+      <navLabel>
+        <text>पूर्व-स्मृति</text>
+      </navLabel>
+      <content src="text/purba-smriti.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_64">
+      <navLabel>
+        <text>मनःपरिवर्तन</text>
+      </navLabel>
+      <content src="text/manaparibartan.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_65">
+      <navLabel>
+        <text>वंशीधरको दिव्य वंशी</text>
+      </navLabel>
+      <content src="text/bamshidharko-dibya-bamshi.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
